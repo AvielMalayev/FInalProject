@@ -1,2 +1,2 @@
-# FInalProject
-Outline liver tumors based on image segmentation.
+# Liver Tumor Segmentation Using Machine Learning
+*Project Overview*
