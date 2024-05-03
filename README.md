@@ -12,8 +12,7 @@ This project applies deep learning models U-net, ResUNet, and TransUNet for the 
 - Google Colab (for model execution and training)
 
 ### Hardware
-- A machine with access to the internet
-- GPU acceleration (recommended for model training)
+- Google Colab A-100 GPU
 
 ## Usage
 ### Data Preparation
@@ -33,14 +32,6 @@ To execute the dual-model approach that segments the liver and then the tumors:
 2. Ensure all paths and parameters are correctly set.
 3. Run the notebook cells sequentially to process the data, train the models, and perform segmentation.
 
-## Contributing
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Aviel Malayev 
+## Authors
+Aviel Malayev, 
 Omri Shalev
-
-Project Link: https://github.com/AvielMalayev/FInalProject.githttps://github.com/AvielMalayev/FInalProject.git 
